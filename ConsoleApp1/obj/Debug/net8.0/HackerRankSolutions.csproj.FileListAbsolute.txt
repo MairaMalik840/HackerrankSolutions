@@ -1,0 +1,4 @@
+C:\Users\MairaMalik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\HackerRankSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MairaMalik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\HackerRankSolutions.AssemblyInfoInputs.cache
+C:\Users\MairaMalik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\HackerRankSolutions.AssemblyInfo.cs
+C:\Users\MairaMalik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\HackerRankSolutions.csproj.CoreCompileInputs.cache
